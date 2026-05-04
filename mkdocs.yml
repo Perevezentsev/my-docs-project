@@ -1,0 +1,6 @@
+site_name: Моя документация
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Первая страница: page1.md
