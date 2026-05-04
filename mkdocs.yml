@@ -4,3 +4,4 @@ theme:
 nav:
   - Home: index.md
   - Первая страница: page1.md
+  - Вторая страница: page2.md
